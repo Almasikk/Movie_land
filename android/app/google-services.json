@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "198093309235",
+    "project_id": "vkcopy-d35d9",
+    "storage_bucket": "vkcopy-d35d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198093309235:android:df6405d8e4ec85c7f42a46",
+        "android_client_info": {
+          "package_name": "com.example.vk_copy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198093309235-66fgq1bscs6lltavgu6dpd9q5ghdc10s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1zxR_eVurHcrwF4RoapIFcEEv7NhN8eI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198093309235-66fgq1bscs6lltavgu6dpd9q5ghdc10s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
